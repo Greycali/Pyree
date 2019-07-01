@@ -1,0 +1,13 @@
+#print() function practice
+
+print("Hello? Everybody")
+//Hello? Everybody
+
+print("I love python so much.")
+//I love python so much
+
+print("9*8 is", 9*8, ".")
+//9*8 is 72.
+
+print("Good Bye.")
+//Good Bye.
