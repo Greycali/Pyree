@@ -1,0 +1,27 @@
+#Let's draw polygon and circle with turtle graphic
+
+//polygon
+import turtle
+
+t = turlte.Turtle()
+t.shpae("turtle")
+
+t.forward(100)
+t.left(60)
+t.forward(100)
+t.left(60)
+t.forward(100)
+t.left(60)
+t.forward(100)
+t.left(60)
+t.forward(100)
+t.left(60)
+t.forward(100)
+
+//circle
+import turtle
+
+t = turtle.Turtle()
+t.shape("turtle")
+
+t.circle(100)
