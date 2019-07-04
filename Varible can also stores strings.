@@ -1,0 +1,14 @@
+name = "JAMES"
+address = "Seoul"
+
+print(name)
+#JAMES
+
+print(address)
+#Seoul
+
+print("23"+"56")
+#2356
+
+print(23 + 56)
+#79
